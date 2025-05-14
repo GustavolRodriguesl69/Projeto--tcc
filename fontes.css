@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "Work Sans Regular";
+    src: url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.eot");
+    src: url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/d6b6e06ec971e05f59a2357fd86dd379.svg#Work Sans Regular")format("svg");
+}
+
+@font-face {
+    font-family: "Courier New";
+    src: url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.eot");
+    src: url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/72c75860d89e91a517dfb1e7d308c180.svg#Courier New")format("svg");
+}
+
+@font-face {
+    font-family: "Zit Graffiti";
+    src: url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.eot");
+    src: url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/3fc4416daed343da9e0d130a997300f4.svg#Zit Graffiti")format("svg");
+}
